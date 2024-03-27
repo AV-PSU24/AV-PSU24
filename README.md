@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AV-PSU24
-- 👀 I’m interested in paritcipating in open source project involving Java and Python
+- 👀 I’m interested in paritcipating in open source projects involving Java and Python
 - 🌱 I’m currently improving my skills on Java and Python
 - 💞️ I’m looking to collaborate on USACO competetive programming &  open source projects
 - 📫 reach me via colloboration channels available on the project pages.
