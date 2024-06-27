@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AV-PSU24
 - 👀 I’m interested in paritcipating in open source projects involving Java and Python
 - 🌱 I’m currently improving my skills on Java and Python
-- 💞️ I’m looking to collaborate on USACO competetive programming &  open source projects
+- 💞️ I’m looking to collaborate on open source projects and build connections
 - 📫 reach me via colloboration channels available on the project pages.
 - 😄 Pronouns: He/Him
 
